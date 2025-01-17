@@ -1,2 +1,3 @@
 Example3 filr
 ADDINE NEW LINE TO SEE DIFF COMMAND
+USER1 chnage
