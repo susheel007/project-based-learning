@@ -1,4 +1,4 @@
-Example3 filr
+Example3 filr CHnages to sam eline
 ADDINE NEW LINE TO SEE DIFF COMMAND
 USER1 chnage
 Added line form editor 1
