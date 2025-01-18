@@ -10,3 +10,5 @@ chnages by syushell for comete
 Changes to pull
 Learn git fetach
 need understanding
+
+I am working on local repo without knowwing master repo is updated.
